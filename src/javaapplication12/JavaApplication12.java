@@ -18,4 +18,8 @@ public class JavaApplication12 {
         // TODO code application logic here
     }
     
+    public int newMethode(int a,int b){
+        return a+b;
+    }
+    
 }
